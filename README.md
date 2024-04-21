@@ -11,8 +11,7 @@ Proyek Akhir : Klasifikasi Gambar pada kelas Belajar Machine Learning untuk Pemu
 - Pelatihan model tidak melebihi waktu 30 menit.
 - Program dikerjakan pada Google Colaboratory.
 - Akurasi dari model minimal 85%.
-- Dapat memprediksi gambar yang diunggah ke Colab seperti gambar di bawah.
-![App Screenshot](https://d17ivq9b7rppb3.cloudfront.net/original/academy/202004302318257ec23b834046174a7d426680e488905e.png)
+- Dapat memprediksi gambar yang diunggah ke Colab.
 - Manambahkan data diri (sesuai profil Dicoding) pada submission/project yang dikirimkan.
 
 ## Saran
