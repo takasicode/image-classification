@@ -28,4 +28,4 @@ Proyek Akhir : Klasifikasi Gambar pada kelas Belajar Machine Learning untuk Pemu
 ⭐⭐⭐⭐⭐
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python)](https://github.com/takasicode/technical-test)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://github.com/takasicode/image-classification)
