@@ -22,7 +22,7 @@ Proyek Akhir : Klasifikasi Gambar pada kelas Belajar Machine Learning untuk Pemu
 
 ## Saran Plus
 - Akurasi di atas 96%.
-- Menggunakan tiga atau lebih teknik yang tidak diajarkan di modul seperti penggunaan Callback
+- Menggunakan tiga atau lebih teknik yang tidak diajarkan di modul seperti penggunaan Callback.
 
 ## Rating Submission
 ⭐⭐⭐⭐⭐
